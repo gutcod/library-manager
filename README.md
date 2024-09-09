@@ -28,7 +28,7 @@ This Book Management System is a React-based web application that allows users t
 
 2. Install dependencies:
    ```
-   npm install
+   npm run install-all
    ```
 
 3. Navigate to the server directory:
